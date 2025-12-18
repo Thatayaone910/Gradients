@@ -9,7 +9,7 @@ Fully displays in the terminal using ANSI escape codes
 
 Beginner-friendly Python code
 
-No third-party libraries required
+No third-party libraries required.
 
 How it Works
 
